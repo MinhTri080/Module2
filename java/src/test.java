@@ -70,5 +70,7 @@ public class test {
 //        String ketQua = (toan>hoa)? "Điểm toán lớn hơn hóa" : "Điểm hóa lớn hơn toán";
 //        System.out.println(ketQua);
         //conver string to char
+
+
     }
 }
