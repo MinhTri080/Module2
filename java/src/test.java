@@ -1,8 +1,8 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class test {
-    public static void main(String[] args) {
+//public class test {
+//    public static void main(String[] args) {
 //        //tính giai thừa của 1 số bất kì
 //        Scanner num = new Scanner(System.in);
 //        System.out.println("nhập vào số nguyên bất kì");
@@ -70,7 +70,7 @@ public class test {
 //        String ketQua = (toan>hoa)? "Điểm toán lớn hơn hóa" : "Điểm hóa lớn hơn toán";
 //        System.out.println(ketQua);
         //conver string to char
+//
+//    }
+//}
 
-
-    }
-}
